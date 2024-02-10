@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353261105159",
+    "project_id": "my-gct-c8855",
+    "storage_bucket": "my-gct-c8855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353261105159:android:4f83f67e185a18af0e7aa2",
+        "android_client_info": {
+          "package_name": "com.example.mygct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCyDA0s0ba0Z8WkifENbLI-Nne9wsvYwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

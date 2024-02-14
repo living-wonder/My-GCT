@@ -33,12 +33,12 @@ class AdminHome : AppCompatActivity() {
     }
 
     private fun addTpo() {
-       // val intent = Intent(this, AddingNewTPO::class.java)
+       val intent = Intent(this, AddingNewTPO::class.java)
         startActivity(intent)
     }
 
     private fun addStudent() {
-      //  val intent = Intent(this, AddingNewStudent::class.java)
+        val intent = Intent(this, AddingNewStudent::class.java)
         startActivity(intent)
     }
 
